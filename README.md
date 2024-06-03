@@ -1,6 +1,8 @@
 <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/bitter-or-sweet/posts.svg)](http://qiita.com/bitter-or-sweet)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/bitter-or-sweet/contributions.svg)](http://qiita.com/bitter-or-sweet)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/bitter-or-sweet/followers.svg)](http://qiita.com/bitter-or-sweet)
 <p align="left"> 
   <a href="http://twitter.com/_bacon_tetris">
     <img height="20" src="https://img.shields.io/twitter/follow/zio_tt?label=Twitter&logo=twitter&style=flat" />
